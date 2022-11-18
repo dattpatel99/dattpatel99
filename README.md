@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dattpatel99
+- 👀 I’m interested in developing any code that allows me to learn something new
+- 🌱 I’m currently learning AI, ML, and Data Science related topics
+- 📫 How to reach me: Email: dhpatel1999@gmail.com
